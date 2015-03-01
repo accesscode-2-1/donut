@@ -1,6 +1,6 @@
 # Donut Pod
 
-![donut](https://app.box.com/representation/file_version_25278743713/image_2048/1.png)
+![donut](http://app.box.com/representation/file_version_25278743713/image_2048/1.png)
 
 **Contributors:**
 
