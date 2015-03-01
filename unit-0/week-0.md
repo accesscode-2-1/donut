@@ -50,15 +50,16 @@
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece? Kevin talked about how Android developers are in demand and if we can get proficient, we'll have lots of job interviews. He also talked about how what we're capable of matters more than any degree or resume. From Paola: you will face adversity but persistence pays off, you must keep learning until you're really proficient.  Also we really liked seeing a woman speak and have her as a role model. Both of them are in charge of Meetups that we want to check out.
-* 
+
 * How does this think piece relate to access code? Kevin's talk helped acclimate us to the culture of Android developers/programming in general. He said how important it is to keep learning. We noticed how it related to the C4Q values. Paola's talk gave us the real perspective because she was in Access Code 1.0, whereas Kevin has been doing programming longer (from age 7 to now in his mid-30s!). So we got the perspectives of a recent former student and also the owner of Touch Lab.
 
 ### TODOs
-*Create and use the slack group for our fellow Donuts!
-*Each of us tweet at least once this week and also do our Medium posts (one each).
+* Create and use the slack group for our fellow Donuts!
+
+* Each of us tweet at least once this week and also do our Medium posts (one each).
 
 ### Extra comments / Anything you want your program managers to know
-We think it would be great if we could get a more detailed outline for this Unit 0 we're in currently that could help us anticipate what's coming in the next few weeks.
+* We think it would be great if we could get a more detailed outline for this Unit 0 we're in currently that could help us anticipate what's coming in the next few weeks.
 
 ### Next Week
 
@@ -68,3 +69,4 @@ We think it would be great if we could get a more detailed outline for this Unit
 
 
 * Next Week’s team leader:
+Elvis Boves
