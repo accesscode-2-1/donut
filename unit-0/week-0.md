@@ -3,7 +3,7 @@
 * Date:
 * Attendants:
 * Team Leader:
-* Think Piece:
+* Think Piece: Paola + Kevin's talks
 
 ### Retrospective
 
