@@ -1,6 +1,6 @@
-# Week 4 Pod Meeting
+# Week 5 Pod Meeting
 
-* Date: March 28 2015
+* Date: April 4, 2015
 * Attendants: Elvis Boves, Sarah Kim, Marbella Vidals, John Gomez
 * Team Leader: Allison Bojarski
 * Think Piece: Amy Cuddy, TED Talk 
@@ -74,4 +74,4 @@ BE. AWESOME!
 ### Next Week
 
 * Next Week’s think piece: TBD
-* Next Week’s team leader: Allison 
+* Next Week’s team leader: Elvis Boves
