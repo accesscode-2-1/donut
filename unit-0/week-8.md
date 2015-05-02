@@ -1,6 +1,6 @@
-# Week 7 Pod Meeting 
+# Week 8 Pod Meeting 
 
-* Date: April 25, 2015 
+* Date: May 2, 2015 
 * Attendants: Sarah Kim, Marbella Vidals, Elvis Boves Team Leader: John Gomez 
 * Think piece: Power of Yet
 
