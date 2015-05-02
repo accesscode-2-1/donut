@@ -2,56 +2,61 @@
 
 * Date: April 25, 2015 
 * Attendants: Sarah Kim, Marbella Vidals, Elvis Boves Team Leader: John Gomez 
-* Think piece: How to impress an interviewer Elvis
+* Think piece: Power of Yet
 
 ### Retrospective
 
 **Elvis Boves**
 * This week's medium post: 
-* Last week’s goal: 
-* What went well (what goals did you meet?)? Found some useful android videos. 
-* What could have gone better? Have more time to practice previous home works. 
-* What is your goal for next week? Learn how to work a button in android. 
-* What do you need help with? Connecting elements in android.
+* Last week’s goal: Learn how to work a button in android. 
+* What went well (what goals did you meet?)? Still working on it
+* What could have gone better? More practice, more time
+* What is your goal for next week? Try to understand interfaces, generics and android 
+* What do you need help with? Generics and Interfaces
 
 **John**
 * This week's medium post: 
-* Last week’s goal: Get done previous week’s goals. 
-* What went well (what goals did you meet?) I feel a lot more comfortable with the material. I learned more about java and adroid. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) aproaching new adroid subjects.
-* What is your goal for next week? Learn how to work the android studio interface 
-* What do you need help with? (peers sign up to help if they can) android workflow
+* Last week’s goal: Learn how to work the android studio interface 
+* What went well (what goals did you meet?) Learned how to navigate  through Android Studio interface
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)? I wish I could have finished my text based game and implemented more funtionality. 
+* What is your goal for next week? Construct a full functioning app on my own
+* What do you need help with? (peers sign up to help if they can) Understanding intents (explicit v. implicit)
 
 **Marbella**
-* This week's medium post: 
-* Last week’s goal: Review classes and objects 
-* What went well (what goals did you meet?) Passed aseesment. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Running my android app on my phone did not go well. Will watch more tutorals and troubleshoot. 
-* What is your goal for next week? Do more prework on android. review class concepts 
-* What do you need help with? (peers sign up to help if they can)troubleshooting in android. getting comfortable with the interface.
+* This week's medium post: https://medium.com/@Vidals047M/don-t-panic-breatheeee-140f4634492b
+* Last week’s goal: Do more prework on android. review class concepts 
+* What went well (what goals did you meet?)? Managed to run the Hello World app on my phone and understand Andriod Studio project structure
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)? Spend more time on OOP and Generics.
+* What is your goal for next week? Review OOP and do more practice problems
+* What do you need help with? (peers sign up to help if they can)? Troubleshooting in android and OOP.
+
 
 **Sarah Kim**
 * This week's medium post: 
-* Last week’s goal: To keep getting better with the pseudocoding, to comprehend what code I should implement . 
-* What went well (what goals did you meet?): I am getting better on it, understanding the logic more. Did well in the asessment. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) The time it takes to complete assignments. 
-* What is your goal for next week? Get andoid down!!! 
-* What do you need help with? (peers sign up to help if they can) killing it at adroid.
+* Last week’s goal: Get andoid down!!! 
+* What went well (what goals did you meet?): I was unable to complete in-class assignment
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Asked questions and attended office hours.
+* What is your goal for next week? Have a more comprehensive understnding of interfaces, and oop and complete my assignments.
+* What do you need help with? (peers sign up to help if they can)? Understanding android 
 
 Allison
 * This week's medium post: 
-* Last week’s goal: Same as last week but also reviewing JAVA. 
-* What went well (what goals did you meet?): Feel more comfortable with Java. Improved on reassessment. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Need more work on the more advanced topics of Java. Was focusing on the basics to feel more comfortable in the assessment.
-* What is your goal for next week? Getting comfortable with Android studio. 
-* What do you need help with? (peers sign up to help if they can) Tethering device to android studio. Sarah volunteers.
+* Last week’s goal: Getting comfortable with Android studio.
+* What went well (what goals did you meet?): Gained more exposure of android studio in class but as Carol Dweck says "not yet". 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)? On Thursday's class there wasn't time to get to the Android problem because we were still working on the JAVA problem. 
+* What is your goal for next week? Getting comfortable with Android studio.
+* What do you need help with? (peers sign up to help if they can) Android Studio 
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
-* What are 2 things you took from this think piece? *Defining our strenghts gives us a better understanding of where we stand professionally. *Knowing them can help us work on our weaknesses.
-*
-*How does this think piece relate to access code? Having a clear idea of where you stand can help you understand what you need to work on. Accesscode challenges us to notice our own weaknesses and use our strenghts to help each other and ourselves as we move through the porogram. Preparing for an interview is just one aspect of preparing yourself as a person in terms of the qualities innate to us that can be helpful to others. Which is what an employer looks for. The person with the skills necessary to move the company forward.
-* 
+* What are 2 things you took from this think piece? 
+  * It made you re-evaluate how you face and cope challenges. We also learned that the learning curve involves small progressive steps to achieve that goal and its the effort you put into it in achieving it. Also, makes us reflect on how we give feedback, it should be postivie. 
+
+
+*How does this think piece relate to access code? Having a clear idea of where you stand can help you understand what you need to work on.
+  * This week at Access Code was rough and we were introduced to a new challenging topic, Android Development. We need to be optismism and try to have a growth mind set. 
+  
+
 ### TODOs
 
 * Learn more each day about both java and android. 
@@ -61,4 +66,4 @@ Allison
 
 ### Next Week’s think piece:TBD
 
-* TBD Next Week’s team leader: Marbella
+* TBD Next Week’s team leader: Sarah 
