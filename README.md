@@ -10,7 +10,6 @@
 * Marbella Vidals
 * Sarah Kim
 
-=====
 
 # Weekly Pod Meeting Template
 
