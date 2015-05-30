@@ -17,7 +17,7 @@
 * Attendants: [UPDATE THIS]
 * Team Leader: [UPDATE THIS]
 
-### Weekly Goals
+### This Week's Goals
 
 * Submit all the homework on time
 * Master all the material covered this week
