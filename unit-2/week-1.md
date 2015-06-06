@@ -31,14 +31,15 @@
 
 
 
-####2. If not, which ones didn't you meet and why? All the members of our group still need to bring our horoscope apps to 
+####2. If not, which ones didn't you meet and why? 
+       All the members of our group still need to bring our horoscope apps to 
        total completion. We're going to spend at least 3-5 hours this week on improving our horoscope apps, in 
        addition to our other class assignments, studying, and new homework.
 
 
 
 ####3. What will you do as a team to make sure you meet your goals next week?
-      Check in with each other and remind each other, both via slack and in person during classes/office hours/meeting
+      Check in with each other and remind each other, both via slack and in person during classes/office     hours/meeting
       independently with each other. (For instance, Sarah and Allison worked together today during lunch hour on the 
       morning's assignment.)
 
