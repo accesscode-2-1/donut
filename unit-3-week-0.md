@@ -38,7 +38,6 @@ Solidify newer concepts and lessons from previous and current unit.
 
 Communicate via slack and check up on each other to see how we are all doing.
 
-[UPDATE THIS]
 
 ### Next Week
 
