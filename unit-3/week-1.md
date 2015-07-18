@@ -27,15 +27,15 @@
 
 ####1. Did you meet your weekly goals?
 
-No, but we are progressing as most of us brainstormed ideas on what to write for our technical blog posts and submitted the homework.
+      No, but we are progressing as most of us brainstormed ideas on what to write for our technical blog posts and submitted the homework.
 
 ####2. If not, which ones didn't you meet and why? 
 
-Technical blog posts and homework as we lacked either the time or understanding of the materials covered from last week.
+      Technical blog posts and homework as we lacked either the time or understanding of the materials covered from last week.
 
 ####3. What will you do as a team to make sure you meet your goals next week?   
 
-Keep practicing what we learned and check up on each other to see how we are all doing.
+      Keep practicing what we learned and check up on each other to see how we are all doing.
 
 
 ### Next Week
@@ -43,4 +43,4 @@ Keep practicing what we learned and check up on each other to see how we are all
 * Next Week’s team leader: Allison Bojarski
 * Next Week's pod goals:
   1. Finish the technical blog posts
-  2. Make sure we understand topics and concepts, SharedPreferences, SQL and SQLite, Fragments
+  2. Make sure we understand the topics and concepts covered last week, SharedPreferences, SQL and SQLite, Fragments
